@@ -5,5 +5,9 @@ alert(2222222);
 var a=1;
 var b=2;
 var c=3;
+
 var g;
 var oo;
+
+console.log(aaaa);
+console.log(bbbb);
